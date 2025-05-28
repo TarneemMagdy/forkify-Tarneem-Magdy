@@ -1,7 +1,7 @@
 import { RES_PER_PAGE } from "../config";
 import { state } from "../model";
 import View from "./view";
-import icons from 'url:../../img/icons.svg';
+import icons from 'url:../../../src/img/icons.svg';
 class PaginationView extends View {
   _parentElement = document.querySelector('.pagination');
   addHandlerRenderClick(handler) {

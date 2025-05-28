@@ -163,7 +163,7 @@ const init=function(){
    addRecipeView.addHandlerUpload(controlAddRecipe)
   recipeView.addHandlerBasket(controlAddCart)
 
-  console.log('hellp');
+
   
    
   
