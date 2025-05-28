@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html cart.html",
-    "build": "parcel build index.html --dist-dir ./dist && cp cart.html ./dist/"
+    "build": "parcel build index.html cart.html --dist-dir ./dist"
+
+    
   },
   "author": "tarneem magdy",
   "license": "ISC",
