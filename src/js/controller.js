@@ -1,4 +1,4 @@
-import icons from '../img/icons.svg'
+
 import 'regenerator-runtime/runtime';
 import 'core-js/stable'
 
