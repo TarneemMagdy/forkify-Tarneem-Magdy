@@ -6,6 +6,15 @@
 
 ---
 
+
+
+## 🌐 Live Demo
+
+Try it out here:  
+[https://forkify-tarneem-magdy.netlify.app/](https://forkify-tarneem-magdy.netlify.app/)
+
+---
+
 ## 💡 Project Overview
 
 This project is built as part of a learning journey in modern JavaScript development. It consumes the **Forkify API** to fetch recipe data, and provides a dynamic, responsive UI. Users can search for recipes, bookmark favorites, upload their own creations, and even add recipes to a shopping-style cart using browser localStorage.
